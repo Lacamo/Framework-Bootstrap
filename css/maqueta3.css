@@ -1,0 +1,29 @@
+
+#header {
+    background-color: rgb(184, 214, 184);
+}
+
+#col1 {
+    background-color: rgb(242, 253, 95);
+    height: 300px;
+}
+
+#col2 {
+    background-color: rgb(251, 159, 21);
+    height: 300px;
+}
+
+#col3 {
+    background-color: rgb(234, 153, 31);
+    height: 300px;
+}
+#col4{
+    background-color: rgb(198, 217, 226);
+}
+#pie1 {
+    background-color: yellow;
+}
+
+#pie2 {
+    background-color: rgb(151, 106, 58);
+}
